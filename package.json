@@ -1,0 +1,18 @@
+{
+  "name": "blurts-server-details",
+  "version": "1.0.0",
+  "description": "",
+  "bin": "./index.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "@11ty/eleventy-fetch": "^4.0.0"
+  }
+}
